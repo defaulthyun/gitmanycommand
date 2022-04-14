@@ -1,3 +1,4 @@
 amend test
 git commit --amend
 git hard rest
+git revert
