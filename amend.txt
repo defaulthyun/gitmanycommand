@@ -1,2 +1,2 @@
 amend test
-amendfunction()
+git commit --amend
