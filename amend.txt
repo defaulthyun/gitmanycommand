@@ -1,3 +1,4 @@
 amend test
 git commit --amend
+git cherry
 
